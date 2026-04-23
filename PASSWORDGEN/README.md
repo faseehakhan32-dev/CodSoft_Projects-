@@ -1,0 +1,89 @@
+# 🔐 Password Generator (Python)
+
+A simple and secure **Password Generator application** built using Python. This project helps users create strong and random passwords by allowing them to specify the desired length and complexity.
+
+---
+
+## 🚀 Features
+- Generate strong and random passwords  
+- User-defined password length  
+- Supports letters, numbers, and special characters  
+- Easy to use (command-line based)  
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+
+---
+
+## 📂 Project Structure
+```
+password-generator/
+├── main.py
+└── README.md
+```
+
+---
+
+## ▶️ Getting Started
+
+### 1. Clone the repository
+```
+git clone https://github.com/your-username/password-generator.git
+```
+
+### 2. Navigate to the project directory
+```
+cd password-generator
+```
+
+### 3. Run the application
+```
+python main.py
+```
+
+---
+
+## 💡 How It Works
+1. The user is prompted to enter the desired password length  
+2. The program generates a password using random characters  
+3. The generated password is displayed on the screen  
+
+---
+
+## 📌 Example
+```
+Enter password length: 12
+Generated Password: A@7kL#9pQ2x!
+```
+
+---
+
+## 🔐 Password Criteria
+- Uppercase letters (A–Z)  
+- Lowercase letters (a–z)  
+- Numbers (0–9)  
+- Special characters (!, @, #, etc.)  
+
+---
+
+## 📈 Future Enhancements
+- Allow user to choose complexity (e.g., only numbers, alphanumeric, etc.)  
+- Add GUI interface  
+- Copy password to clipboard  
+- Save generated passwords securely  
+
+---
+
+## ⚠️ Requirements
+- Python 3.x installed  
+
+---
+
+## 👨‍💻 Author
+Faseeha Khan F
+GitHub: https://github.com/faseehakhan32-dev
+
+---
+
