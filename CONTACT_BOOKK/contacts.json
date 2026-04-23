@@ -1,0 +1,23 @@
+[
+  {
+    "id": "8ade248f-3ad2-4a2f-b18c-f92a2067c9e4",
+    "name": "AAAA",
+    "phone": "0987654321",
+    "email": "1234@gmail.com",
+    "address": "ZZZZ"
+  },
+  {
+    "id": "d0df4cdd-e222-48ee-a8ad-4e1aec429d13",
+    "name": "BBBB",
+    "phone": "1234567890",
+    "email": "5678@GMAIL.COM",
+    "address": "XXXX"
+  },
+  {
+    "id": "b74efa2e-1022-48cd-be11-9a8f3253deea",
+    "name": "FFFFF",
+    "phone": "6789054321",
+    "email": "567@gamil.com",
+    "address": "DDDDD"
+  }
+]
